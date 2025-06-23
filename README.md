@@ -1,4 +1,3 @@
-Home
 Olá meu nome é Pablo Felipe da Luz
 Atualmente moro no Brasil, em Santa Catarina.
 Trabalho como operador de máquina e sou estudante da Unoesc.
